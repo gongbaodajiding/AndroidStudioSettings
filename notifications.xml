@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="File type conflict" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

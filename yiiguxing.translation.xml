@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="splits { abi { enable true reset() include 'x86', 'armeabi-v7a','x86_64' universalApk true } }" />
+      <item value="splits" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1650013156566" />
+  </component>
+</application>
