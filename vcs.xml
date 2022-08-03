@@ -14,9 +14,13 @@
           <option name="url" value="http://10.24.33.102/maslow-software-develop-msd/profile-mode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.24.33.102:maslow-software-develop-msd/baic-SceneMode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\wangxiao\Desktop\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/AndroidStudio" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
