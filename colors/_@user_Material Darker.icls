@@ -4,7 +4,7 @@
     <property name="created">2022-04-11T10:33:52</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-08-10T15:32:57</property>
+    <property name="modified">2022-08-10T16:46:25</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -644,7 +644,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="727272" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
