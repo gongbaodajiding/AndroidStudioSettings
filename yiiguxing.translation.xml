@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notify any registered observers that the data set has changed. There are two different classes of data change events, item changes and structural changes. Item changes are when a single item has its data updated but no positional changes have occurred. Structural changes are when items are inserted, removed or moved within the data set. This event does not specify what about the data set has changed, forcing any observers to assume that all existing items and structure may no longer be valid. LayoutManagers will be forced to fully rebind and relayout all visible views. RecyclerView will attempt to synthesize visible structural change events for adapters that report that they have stable IDs when this method is used. This can help for the purposes of animation and visual object persistence but individual item views will still need to be rebound and relaid out. If you are writing an adapter it will always be more efficient to use the more specific change events if you can. Rely on notifyDataSetChanged() as a last resort. See Also: notifyItemChanged(int), notifyItemInserted(int), notifyItemRemoved(int), notifyItemRangeChanged(int, int), notifyItemRangeInserted(int, int), notifyItemRangeRemoved(int, int)" />
       <item value="bias" />
       <item value="Sets the LifecycleOwner that should be used for observing changes of LiveData in this binding. If a LiveData is in one of the binding expressions and no LifecycleOwner is set, the LiveData will not be observed and updates to it will not be propagated to the UI. When using Data Binding with Fragments, make sure to use Fragment.getViewLifecycleOwner(). Using the Fragment as the LifecycleOwner might cause memory leaks since the Fragment's Lifecycle outlives the view Lifecycle. When using Data Binding with Activities, you can use the Activity as the LifecycleOwner. Params: lifecycleOwner – The LifecycleOwner that should be used for observing changes of LiveData in this binding." />
       <item value="inflate" />
@@ -13,7 +14,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
