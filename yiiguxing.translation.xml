@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bias" />
       <item value="Sets the LifecycleOwner that should be used for observing changes of LiveData in this binding. If a LiveData is in one of the binding expressions and no LifecycleOwner is set, the LiveData will not be observed and updates to it will not be propagated to the UI. When using Data Binding with Fragments, make sure to use Fragment.getViewLifecycleOwner(). Using the Fragment as the LifecycleOwner might cause memory leaks since the Fragment's Lifecycle outlives the view Lifecycle. When using Data Binding with Activities, you can use the Activity as the LifecycleOwner. Params: lifecycleOwner – The LifecycleOwner that should be used for observing changes of LiveData in this binding." />
       <item value="inflate" />
       <item value="suspend" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
