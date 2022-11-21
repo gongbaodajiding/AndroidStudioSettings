@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="SpeechProxy" />
     <option name="nonFavorites">
       <list>
         <option value="SpeechProxy" />
         <option value="SpeechService" />
-        <option value="SpeechSer" />
         <option value="scene" />
+        <option value="SpeechSer" />
         <option value="CreateFragment" />
       </list>
     </option>
