@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="255" />
+    <option name="newTranslationDialogX" value="703" />
+    <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="contains" />
+      <item value="Adds the given observer to the observers list within the lifespan of the given owner. The events are dispatched on the main thread. If LiveData already has data set, it will be delivered to the observer. The observer will only receive events if the owner is in Lifecycle.State.STARTED or Lifecycle.State.RESUMED state (active). If the owner moves to the Lifecycle.State.DESTROYED state, the observer will automatically be removed. When data changes while the owner is not active, it will not receive any updates. If it becomes active again, it will receive the last available data automatically. LiveData keeps a strong reference to the observer and the owner as long as the given LifecycleOwner is not destroyed. When it is destroyed, LiveData removes references to the observer &amp; the owner. If the given owner is already in Lifecycle.State.DESTROYED state, LiveData ignores the call. If the given owner, observer tuple is already in the list, the call is ignored. If the observer is already in the list with another owner, LiveData throws an IllegalArgumentException." />
       <item value="Notify any registered observers that the data set has changed. There are two different classes of data change events, item changes and structural changes. Item changes are when a single item has its data updated but no positional changes have occurred. Structural changes are when items are inserted, removed or moved within the data set. This event does not specify what about the data set has changed, forcing any observers to assume that all existing items and structure may no longer be valid. LayoutManagers will be forced to fully rebind and relayout all visible views. RecyclerView will attempt to synthesize visible structural change events for adapters that report that they have stable IDs when this method is used. This can help for the purposes of animation and visual object persistence but individual item views will still need to be rebound and relaid out. If you are writing an adapter it will always be more efficient to use the more specific change events if you can. Rely on notifyDataSetChanged() as a last resort. See Also: notifyItemChanged(int), notifyItemInserted(int), notifyItemRemoved(int), notifyItemRangeChanged(int, int), notifyItemRangeInserted(int, int), notifyItemRangeRemoved(int, int)" />
       <item value="bias" />
       <item value="Sets the LifecycleOwner that should be used for observing changes of LiveData in this binding. If a LiveData is in one of the binding expressions and no LifecycleOwner is set, the LiveData will not be observed and updates to it will not be propagated to the UI. When using Data Binding with Fragments, make sure to use Fragment.getViewLifecycleOwner(). Using the Fragment as the LifecycleOwner might cause memory leaks since the Fragment's Lifecycle outlives the view Lifecycle. When using Data Binding with Activities, you can use the Activity as the LifecycleOwner. Params: lifecycleOwner – The LifecycleOwner that should be used for observing changes of LiveData in this binding." />
@@ -14,7 +19,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
