@@ -3,9 +3,11 @@
     <option name="mostRecentlyUsed" value="SpeechService" />
     <option name="nonFavorites">
       <list>
-        <option value="SpeechProxy" />
-        <option value="SpeechService" />
+        <option value="com.baic.icc.scene" />
         <option value="scene" />
+        <option value="SpeechService" />
+        <option value="zuo_MainActivity" />
+        <option value="SpeechProxy" />
         <option value="SpeechSer" />
         <option value="CreateFragment" />
       </list>
