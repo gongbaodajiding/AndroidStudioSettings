@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="SpeechService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="SpeechService" />
         <option value="com.baic.icc.scene" />
         <option value="CustomizedViewModel" />
