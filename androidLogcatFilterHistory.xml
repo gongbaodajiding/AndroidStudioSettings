@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="SpeechProxy" />
     <option name="nonFavorites">
       <list>
+        <option value="MainFragment" />
+        <option value="Main" />
         <option value="SpeechService" />
         <option value="SpeechProxy" />
         <option value="package:mine" />
