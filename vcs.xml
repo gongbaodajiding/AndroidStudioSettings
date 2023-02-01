@@ -18,6 +18,10 @@
           <option name="url" value="git@10.24.33.102:maslow-software-develop-msd/baic-SceneMode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.32.228.242" />
+          <option name="userName" value="wangxiao@bjev.com.cn" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/AndroidStudio" />
