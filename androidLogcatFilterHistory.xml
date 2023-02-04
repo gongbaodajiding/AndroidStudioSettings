@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SpeechService" />
+    <option name="mostRecentlyUsed" value="zuo_MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="zuo_MainActivity" />
         <option value="SpeechService" />
         <option value="SpeechProxy" />
         <option value="Speechwx" />
@@ -13,7 +14,6 @@
         <option value="Main" />
         <option value="package:mine" />
         <option value="CustomizedViewModel" />
-        <option value="zuo_MainActivity" />
         <option value="zuo_BaseSceneViewModel" />
         <option value="scene" />
         <option value="SpeechSer" />
