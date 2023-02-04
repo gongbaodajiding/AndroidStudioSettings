@@ -4,9 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="SpeechService" />
+        <option value="SpeechProxy" />
+        <option value="Speechwx" />
+        <option value="Speech" />
         <option value="com.baic.icc.scene" />
         <option value="RestPlayerViewModel" />
-        <option value="SpeechProxy" />
         <option value="MainFragment" />
         <option value="Main" />
         <option value="package:mine" />
