@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="wxSpeech" />
+    <option name="mostRecentlyUsed" value="dm_task" />
     <option name="nonFavorites">
       <list>
+        <option value="dm_task" />
         <option value="wxSpeech" />
         <option value="zuo_MainActivity" />
         <option value="SpeechService" />
