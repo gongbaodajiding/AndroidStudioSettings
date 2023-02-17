@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.baic.icc.scene" />
     <option name="nonFavorites">
       <list>
+        <option value="com.baic.icc.scene" />
         <option value="wxSpeech" />
         <option value="wx" />
         <option value="com.aispeech." />
@@ -12,7 +13,6 @@
         <option value="SpeechProxy" />
         <option value="Speechwx" />
         <option value="Speech" />
-        <option value="com.baic.icc.scene" />
         <option value="RestPlayerViewModel" />
         <option value="MainFragment" />
         <option value="Main" />
