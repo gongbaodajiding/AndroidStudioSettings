@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="wxSpeech" />
     <option name="nonFavorites">
       <list>
-        <option value="PlayerFragment" />
         <option value="wxSpeech" />
+        <option value="PlayerFragment" />
         <option value="level:error " />
         <option value="com.baic.icc.scene" />
         <option value="wx" />
