@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="wxSpeech" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="PlayerFragment" />
         <option value="wxSpeech" />
         <option value="level:error " />
         <option value="com.baic.icc.scene" />
@@ -22,7 +23,6 @@
         <option value="zuo_BaseSceneViewModel" />
         <option value="scene" />
         <option value="SpeechSer" />
-        <option value="CreateFragment" />
       </list>
     </option>
   </component>
