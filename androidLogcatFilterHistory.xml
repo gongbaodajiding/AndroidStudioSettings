@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="vocab" />
+    <option name="mostRecentlyUsed" value="wxSpeech" />
     <option name="nonFavorites">
       <list>
+        <option value="wxSpeech" />
         <option value="vocab" />
         <option value="zuo_MainFragment" />
         <option value="com.baic.icc.scene" />
         <option value="level:error " />
-        <option value="wxSpeech" />
         <option value="PlayerFragment" />
         <option value="wx" />
         <option value="com.aispeech." />
