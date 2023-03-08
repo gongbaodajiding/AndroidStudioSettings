@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="wxSpeech" />
+        <option value="openSceneByObject" />
         <option value="vocab" />
         <option value="zuo_MainFragment" />
         <option value="com.baic.icc.scene" />
@@ -22,7 +23,6 @@
         <option value="Main" />
         <option value="package:mine" />
         <option value="CustomizedViewModel" />
-        <option value="zuo_BaseSceneViewModel" />
       </list>
     </option>
   </component>
