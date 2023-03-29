@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="wxSpeech" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:2.2_SCENE.Client" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:2.2_SCENE.Client" />
+        <option value="package:mine " />
+        <option value="tag:com.baic.icc.scene " />
         <option value="level:error " />
         <option value="tag:zuo_DefaultSceneExecute tag:zuo_SceneExecutor" />
         <option value="com.baic.icc.scene tag:zuo_DefaultSceneExecute tag:zuo_SceneExecutor" />
@@ -12,8 +15,6 @@
         <option value="com.baic.icc.scene" />
         <option value="wxSpeech" />
         <option value="package:mine -tag:2.2_SCENE.Client level:error " />
-        <option value="package:mine -tag:2.2_SCENE.Client" />
-        <option value="package:mine " />
         <option value="openSceneByObject" />
         <option value="vocab" />
         <option value="zuo_MainFragment" />
@@ -22,7 +23,6 @@
         <option value="com.aispeech." />
         <option value="dm_task" />
         <option value="zuo_MainActivity" />
-        <option value="SpeechService" />
       </list>
     </option>
   </component>
