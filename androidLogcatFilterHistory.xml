@@ -3,11 +3,13 @@
     <option name="mostRecentlyUsed" value="wxSpeech" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:2.2_SCENE.Client" />
+        <option value="package:mine " />
+        <option value="com.baic.icc.scene" />
         <option value="wxSpeech" />
         <option value="openSceneByObject" />
         <option value="vocab" />
         <option value="zuo_MainFragment" />
-        <option value="com.baic.icc.scene" />
         <option value="level:error " />
         <option value="PlayerFragment" />
         <option value="wx" />
@@ -21,8 +23,6 @@
         <option value="RestPlayerViewModel" />
         <option value="MainFragment" />
         <option value="Main" />
-        <option value="package:mine" />
-        <option value="CustomizedViewModel" />
       </list>
     </option>
   </component>
