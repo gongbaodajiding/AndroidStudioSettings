@@ -45,6 +45,17 @@
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="DJUD4Rc046524a" />
+          </Key>
+        </key>
+        <name value="Harman AOSP on Harman Platform" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
