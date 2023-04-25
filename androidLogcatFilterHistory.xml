@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="wxSpeech" />
     <option name="nonFavorites">
       <list>
-        <option value="wxSpeech" />
         <option value="package:mine " />
+        <option value="ExitSceneReceiver" />
+        <option value="wxSpeech" />
         <option value="package:mine tag:zuo_SceneActionDeliver" />
         <option value="package:mine -tag:2.2_SCENE.Client" />
         <option value="tag:com.baic.icc.scene " />
@@ -22,7 +22,6 @@
         <option value="PlayerFragment" />
         <option value="wx" />
         <option value="com.aispeech." />
-        <option value="dm_task" />
       </list>
     </option>
   </component>
