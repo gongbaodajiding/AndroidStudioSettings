@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="wxCommonDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="wxCommonDialog" />
         <option value="package:mine " />
         <option value="ExitSceneReceiver" />
         <option value="wxSpeech" />
@@ -21,7 +23,6 @@
         <option value="zuo_MainFragment" />
         <option value="PlayerFragment" />
         <option value="wx" />
-        <option value="com.aispeech." />
       </list>
     </option>
   </component>
