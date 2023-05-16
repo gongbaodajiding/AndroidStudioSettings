@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="wxCommonDialog" />
+    <option name="mostRecentlyUsed" value="tag:Ambient" />
     <option name="nonFavorites">
       <list>
-        <option value="wxCommonDialog" />
+        <option value="tag:Ambient" />
+        <option value="package:mine tag:Ambient" />
+        <option value="package:mine tag:APM" />
         <option value="package:mine " />
+        <option value="5578" />
+        <option value="wxCommonDialog" />
         <option value="ExitSceneReceiver" />
         <option value="wxSpeech" />
         <option value="package:mine tag:zuo_SceneActionDeliver" />
@@ -19,10 +23,6 @@
         <option value="com.baic.icc.scene" />
         <option value="package:mine -tag:2.2_SCENE.Client level:error " />
         <option value="openSceneByObject" />
-        <option value="vocab" />
-        <option value="zuo_MainFragment" />
-        <option value="PlayerFragment" />
-        <option value="wx" />
       </list>
     </option>
   </component>
