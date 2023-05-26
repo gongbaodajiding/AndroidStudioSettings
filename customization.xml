@@ -134,5 +134,6 @@
       <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Git.Pull" icon="GotoNextBookmark" />
   </component>
 </application>
