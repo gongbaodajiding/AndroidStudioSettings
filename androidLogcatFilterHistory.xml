@@ -1,11 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
+    <option name="favorites">
+      <list>
+        <option value="package:mine -tag:2.5_" />
+        <option value="package:mine -tag:2.5_ -tag:fragmentmanager " />
+        <option value="wxSpeech" />
+        <option value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:2.5_" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
-        <option value="package:mine -tag:2.5_ -tag:fragmentmanager " />
-        <option value="package:mine -tag:2.5_" />
         <option value="tag:Ambient" />
         <option value="package:mine tag:Ambient" />
         <option value="package:mine tag:APM" />
@@ -13,7 +18,6 @@
         <option value="5578" />
         <option value="wxCommonDialog" />
         <option value="ExitSceneReceiver" />
-        <option value="wxSpeech" />
         <option value="package:mine tag:zuo_SceneActionDeliver" />
         <option value="package:mine -tag:2.2_SCENE.Client" />
         <option value="tag:com.baic.icc.scene " />
