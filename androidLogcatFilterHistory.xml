@@ -11,6 +11,7 @@
     <option name="mostRecentlyUsed" value="wxSpeech" />
     <option name="nonFavorites">
       <list>
+        <option value="RestPlayerViewModel" />
         <option value="wxCommonDialog" />
         <option value="tag:Ambient" />
         <option value="package:mine tag:Ambient" />
