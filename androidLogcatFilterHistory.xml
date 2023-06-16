@@ -8,9 +8,12 @@
         <option value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="wxSpeech" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="level:error " />
+        <option value="package:mine -tag:2.5_ level:error " />
         <option value="RestPlayerViewModel" />
         <option value="wxCommonDialog" />
         <option value="tag:Ambient" />
@@ -22,7 +25,6 @@
         <option value="package:mine tag:zuo_SceneActionDeliver" />
         <option value="package:mine -tag:2.2_SCENE.Client" />
         <option value="tag:com.baic.icc.scene " />
-        <option value="level:error " />
         <option value="tag:zuo_DefaultSceneExecute tag:zuo_SceneExecutor" />
         <option value="com.baic.icc.scene tag:zuo_DefaultSceneExecute tag:zuo_SceneExecutor" />
         <option value="com.baic.icc.scene tag:zuo_DefaultSceneExecute tag:" />
