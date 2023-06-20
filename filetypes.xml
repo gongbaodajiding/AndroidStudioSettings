@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQLite" />
       <mapping pattern="rotate" type="XML" />
       <mapping pattern="text_homepage" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
