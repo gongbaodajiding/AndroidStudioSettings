@@ -8,11 +8,11 @@
         <option value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="wxCommonDialog" />
+    <option name="mostRecentlyUsed" value="wx" />
     <option name="nonFavorites">
       <list>
-        <option value="wxCommonDialog" />
         <option value="wx" />
+        <option value="wxCommonDialog" />
         <option value="tag:thread" />
         <option value="package:mine" />
         <option value="level:error " />
