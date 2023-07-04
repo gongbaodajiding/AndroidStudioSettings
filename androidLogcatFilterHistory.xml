@@ -2,13 +2,13 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="wxSpeech" />
         <option value="package:mine -tag:2.5_" />
+        <option value="wxSpeech" />
         <option value="package:mine -tag:2.5_ -tag:fragmentmanager " />
         <option value="package:mine -tag:2.5_ -tag:fragmentmanager level:debug " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="wx" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
         <option value="wx" />
